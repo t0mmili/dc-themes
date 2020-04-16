@@ -1,0 +1,100 @@
+  <Colors>
+    <Foreground>11842740</Foreground>Foreground
+    <Background>1973790</Background>
+    <Background2>1973790</Background2>Background2
+    <Mark>5520579</Mark>
+    <Cursor>7884582</Cursor>
+    <CursorText>14064726</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
+    <FreeSpaceIndicator>
+      <ForeColor>0</ForeColor>
+      <BackColor>16777215</BackColor>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
+    <FileFilters/>
+    <UseCursorBorder>False</UseCursorBorder>
+    <CursorBorderColor>-2147483635</CursorBorderColor>
+    <InactiveCursor>-2147483645</InactiveCursor>
+    <InactiveMark>128</InactiveMark>
+    <UseInactiveSelColor>False</UseInactiveSelColor>
+    <AllowOverColor>True</AllowOverColor>
+    <gBorderFrameWidth>1</gBorderFrameWidth>
+    <LogWindow>
+      <Info>8388608</Info>
+      <Error>255</Error>
+      <Success>32768</Success>
+    </LogWindow>
+  </Colors>
+  
+  
+  
+    <Fonts>
+    <Main>
+      <Name>Segoe UI Semibold</Name>
+      <Size>10</Size>
+      <Style>1</Style>
+      <Quality>1</Quality>
+    </Main>
+    <Editor>
+      <Name>Noto Mono</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>1</Quality>
+    </Editor>
+    <Viewer>
+      <Name>Noto Mono</Name>
+      <Size>12</Size>
+      <Style>0</Style>
+      <Quality>1</Quality>
+    </Viewer>
+    <Log>
+      <Name>Noto Mono</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>1</Quality>
+    </Log>
+    <ViewerBook>
+      <Name>Noto Mono</Name>
+      <Size>16</Size>
+      <Style>0</Style>
+      <Quality>1</Quality>
+    </ViewerBook>
+    <Console>
+      <Name>Noto Mono</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>1</Quality>
+    </Console>
+    <OptionsTree>
+      <Name>default</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </OptionsTree>
+    <OptionsMain>
+      <Name>default</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </OptionsMain>
+    <SearchResults>
+      <Name>default</Name>
+      <Size>14</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </SearchResults>
+    <PathEdit>
+      <Name>default</Name>
+      <Size>8</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </PathEdit>
+    <FunctionButtons>
+      <Name>default</Name>
+      <Size>8</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </FunctionButtons>
+  </Fonts>
