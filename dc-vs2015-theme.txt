@@ -14,8 +14,8 @@
       <UseGradient>True</UseGradient>
     </FreeSpaceIndicator>
     <FileFilters/>
-    <UseCursorBorder>False</UseCursorBorder>
-    <CursorBorderColor>-2147483635</CursorBorderColor>
+    <UseCursorBorder>True</UseCursorBorder>
+    <CursorBorderColor>14064726</CursorBorderColor>
     <InactiveCursor>-2147483645</InactiveCursor>
     <InactiveMark>128</InactiveMark>
     <UseInactiveSelColor>False</UseInactiveSelColor>
@@ -28,13 +28,13 @@
     </LogWindow>
   </Colors>
   
-  
+
   
     <Fonts>
     <Main>
       <Name>Segoe UI Semibold</Name>
       <Size>10</Size>
-      <Style>1</Style>
+      <Style>0</Style>
       <Quality>1</Quality>
     </Main>
     <Editor>
