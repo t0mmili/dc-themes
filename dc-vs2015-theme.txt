@@ -26,13 +26,19 @@
       <Error>255</Error>
       <Success>32768</Success>
     </LogWindow>
+    <PathLabel>
+      <ActiveColor>-2147483635</ActiveColor>
+      <ActiveFontColor>-2147483634</ActiveFontColor>
+      <InactiveColor>-2147483633</InactiveColor>
+      <InactiveFontColor>-2147483630</InactiveFontColor>
+    </PathLabel>
   </Colors>
-  
 
-  
-    <Fonts>
+
+
+  <Fonts>
     <Main>
-      <Name>Segoe UI Semibold</Name>
+      <Name>Segoe UI</Name>
       <Size>10</Size>
       <Style>0</Style>
       <Quality>1</Quality>
@@ -81,7 +87,7 @@
     </OptionsMain>
     <SearchResults>
       <Name>default</Name>
-      <Size>14</Size>
+      <Size>10</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </SearchResults>
@@ -97,4 +103,10 @@
       <Style>0</Style>
       <Quality>0</Quality>
     </FunctionButtons>
+    <TreeViewMenu>
+      <Name>default</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </TreeViewMenu>
   </Fonts>
