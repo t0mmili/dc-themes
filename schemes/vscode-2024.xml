@@ -8,31 +8,31 @@
       <Quality>1</Quality>
     </Main>
     <Editor>
-      <Name>Noto Mono</Name>
-      <Size>10</Size>
+      <Name>Consolas</Name>
+      <Size>12</Size>
       <Style>0</Style>
       <Quality>1</Quality>
     </Editor>
     <Viewer>
-      <Name>Noto Mono</Name>
+      <Name>Consolas</Name>
       <Size>12</Size>
       <Style>0</Style>
       <Quality>1</Quality>
     </Viewer>
     <Log>
-      <Name>Noto Mono</Name>
+      <Name>monospace</Name>
       <Size>10</Size>
       <Style>0</Style>
       <Quality>1</Quality>
     </Log>
     <ViewerBook>
-      <Name>Noto Mono</Name>
+      <Name>monospace</Name>
       <Size>16</Size>
       <Style>0</Style>
       <Quality>1</Quality>
     </ViewerBook>
     <Console>
-      <Name>Noto Mono</Name>
+      <Name>monospace</Name>
       <Size>10</Size>
       <Style>0</Style>
       <Quality>1</Quality>
