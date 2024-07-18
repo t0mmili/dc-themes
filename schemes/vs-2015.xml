@@ -1,41 +1,5 @@
-  <Colors>
-    <Foreground>11842740</Foreground>Foreground
-    <Background>1973790</Background>
-    <Background2>1973790</Background2>Background2
-    <Mark>5520579</Mark>
-    <Cursor>7884582</Cursor>
-    <CursorText>14064726</CursorText>
-    <UseInvertedSelection>False</UseInvertedSelection>
-    <InactivePanelBrightness>100</InactivePanelBrightness>
-    <UseFrameCursor>False</UseFrameCursor>
-    <FreeSpaceIndicator>
-      <ForeColor>0</ForeColor>
-      <BackColor>16777215</BackColor>
-      <UseGradient>True</UseGradient>
-    </FreeSpaceIndicator>
-    <FileFilters/>
-    <UseCursorBorder>True</UseCursorBorder>
-    <CursorBorderColor>14064726</CursorBorderColor>
-    <InactiveCursor>-2147483645</InactiveCursor>
-    <InactiveMark>128</InactiveMark>
-    <UseInactiveSelColor>False</UseInactiveSelColor>
-    <AllowOverColor>True</AllowOverColor>
-    <gBorderFrameWidth>1</gBorderFrameWidth>
-    <LogWindow>
-      <Info>8388608</Info>
-      <Error>255</Error>
-      <Success>32768</Success>
-    </LogWindow>
-    <PathLabel>
-      <ActiveColor>-2147483635</ActiveColor>
-      <ActiveFontColor>-2147483634</ActiveFontColor>
-      <InactiveColor>-2147483633</InactiveColor>
-      <InactiveFontColor>-2147483630</InactiveFontColor>
-    </PathLabel>
-  </Colors>
-
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd DCVersion="1.1.16 gamma" ConfigVersion="15">
   <Fonts>
     <Main>
       <Name>Segoe UI</Name>
@@ -109,4 +73,45 @@
       <Style>0</Style>
       <Quality>0</Quality>
     </TreeViewMenu>
+    <StatusBar>
+      <Name>default</Name>
+      <Size>0</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </StatusBar>
   </Fonts>
+  <Colors>
+    <Foreground>11842740</Foreground>Foreground
+    <Background>1973790</Background>
+    <Background2>1973790</Background2>Background2
+    <Mark>5520579</Mark>
+    <Cursor>7884582</Cursor>
+    <CursorText>14064726</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
+    <FreeSpaceIndicator>
+      <ForeColor>0</ForeColor>
+      <BackColor>16777215</BackColor>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
+    <UseCursorBorder>True</UseCursorBorder>
+    <CursorBorderColor>14064726</CursorBorderColor>
+    <InactiveCursor>-2147483645</InactiveCursor>
+    <InactiveMark>128</InactiveMark>
+    <UseInactiveSelColor>False</UseInactiveSelColor>
+    <AllowOverColor>True</AllowOverColor>
+    <gBorderFrameWidth>1</gBorderFrameWidth>
+    <LogWindow>
+      <Info>8388608</Info>
+      <Error>255</Error>
+      <Success>32768</Success>
+    </LogWindow>
+    <PathLabel>
+      <ActiveColor>-2147483635</ActiveColor>
+      <ActiveFontColor>-2147483634</ActiveFontColor>
+      <InactiveColor>-2147483633</InactiveColor>
+      <InactiveFontColor>-2147483630</InactiveFontColor>
+    </PathLabel>
+  </Colors>
+</doublecmd>
