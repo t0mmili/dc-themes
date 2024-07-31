@@ -2,10 +2,10 @@
 <doublecmd DCVersion="1.1.16 gamma" ConfigVersion="15">
   <Fonts>
     <Main>
-      <Name>Segoe UI</Name>
+      <Name>default</Name>
       <Size>10</Size>
       <Style>0</Style>
-      <Quality>1</Quality>
+      <Quality>0</Quality>
     </Main>
     <Editor>
       <Name>Consolas</Name>
@@ -19,42 +19,24 @@
       <Style>0</Style>
       <Quality>1</Quality>
     </Viewer>
-    <Log>
-      <Name>monospace</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>1</Quality>
-    </Log>
     <ViewerBook>
       <Name>monospace</Name>
       <Size>16</Size>
       <Style>0</Style>
-      <Quality>1</Quality>
+      <Quality>0</Quality>
     </ViewerBook>
+    <Log>
+      <Name>monospace</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Log>
     <Console>
       <Name>monospace</Name>
       <Size>10</Size>
       <Style>0</Style>
-      <Quality>1</Quality>
+      <Quality>0</Quality>
     </Console>
-    <OptionsTree>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </OptionsTree>
-    <OptionsMain>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </OptionsMain>
-    <SearchResults>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </SearchResults>
     <PathEdit>
       <Name>default</Name>
       <Size>8</Size>
@@ -67,6 +49,12 @@
       <Style>0</Style>
       <Quality>0</Quality>
     </FunctionButtons>
+    <SearchResults>
+      <Name>default</Name>
+      <Size>10</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </SearchResults>
     <TreeViewMenu>
       <Name>default</Name>
       <Size>10</Size>
@@ -81,37 +69,15 @@
     </StatusBar>
   </Fonts>
   <Colors>
-    <Foreground>11842740</Foreground>Foreground
-    <Background>1973790</Background>
-    <Background2>1973790</Background2>Background2
-    <Mark>5520579</Mark>
-    <Cursor>7884582</Cursor>
-    <CursorText>14064726</CursorText>
-    <UseInvertedSelection>False</UseInvertedSelection>
-    <InactivePanelBrightness>100</InactivePanelBrightness>
-    <UseFrameCursor>False</UseFrameCursor>
-    <FreeSpaceIndicator>
-      <ForeColor>0</ForeColor>
-      <BackColor>16777215</BackColor>
-      <UseGradient>True</UseGradient>
-    </FreeSpaceIndicator>
     <UseCursorBorder>True</UseCursorBorder>
-    <CursorBorderColor>14064726</CursorBorderColor>
-    <InactiveCursor>-2147483645</InactiveCursor>
-    <InactiveMark>128</InactiveMark>
+    <UseFrameCursor>False</UseFrameCursor>
+    <UseInvertedSelection>False</UseInvertedSelection>
     <UseInactiveSelColor>False</UseInactiveSelColor>
     <AllowOverColor>True</AllowOverColor>
     <gBorderFrameWidth>1</gBorderFrameWidth>
-    <LogWindow>
-      <Info>8388608</Info>
-      <Error>255</Error>
-      <Success>32768</Success>
-    </LogWindow>
-    <PathLabel>
-      <ActiveColor>-2147483635</ActiveColor>
-      <ActiveFontColor>-2147483634</ActiveFontColor>
-      <InactiveColor>-2147483633</InactiveColor>
-      <InactiveFontColor>-2147483630</InactiveFontColor>
-    </PathLabel>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <FreeSpaceIndicator>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
   </Colors>
 </doublecmd>
